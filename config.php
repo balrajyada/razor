@@ -1,5 +1,5 @@
 <?php
-$razor_api_key = "rzp_test_FmXvZxPcMXvHhm";
+$razor_api_key = "rzp_test_E3GvhmqxFjUdUk";
 ?>
 
 <html>  
